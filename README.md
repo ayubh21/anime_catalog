@@ -1,4 +1,4 @@
-# movie_catalog
+# Anime_catalog
 
 A new Flutter project.
 
